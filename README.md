@@ -1,1 +1,3 @@
 # News_Article_Similarity_Search
+
+This project is a Streamlit-based web application that allows users to search for news articles and find related content based on a query. It utilizes the NewsAPI to fetch relevant articles and the Cohere API to embed and analyze article descriptions for similarity. The application features search functionality to retrieve and display relevant news articles and uses Cohere embeddings to analyze article descriptions for similar content. The top 10 articles are displayed with their titles, descriptions, and sources, and each article title is clickable, linking directly to the full article.
